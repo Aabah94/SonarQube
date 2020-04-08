@@ -6,7 +6,7 @@
     <artifactId>demo-sonarqube</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
-    <name>Poc Micro</name>
+    <name>Demo Sonarqube</name>
 
     <properties>
         <!-- Build properties -->
